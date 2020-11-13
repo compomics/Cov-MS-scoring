@@ -1,0 +1,11 @@
+name: cov-ms-scoring
+channels:
+  - defaults
+dependencies:
+  - python=3.7
+  - numpy
+  - pandas
+  - sklearn
+  - matplotlib
+  - seaborn
+  - plotly
